@@ -1,7 +1,6 @@
-# central_de_atendimento_a_mulher
-Central de atendimento a mulher
 
-# ✅ IMPORTAÇÕES ESTADO DE SANTA CATARINA
+
+# ✅ CENTRAL DE ATENDIMENTO A MULHER
 
 Projeto elaborado através do desafio do grupo de Ciência de Dados da Udata para realizar a análise de dados das importações da região sul do Brasil, onde deveriamos analisar os dados refrentes ao ano de 2020 do estado de Santa Catarina/SC.
 
