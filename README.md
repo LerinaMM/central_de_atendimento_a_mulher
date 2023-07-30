@@ -1,3 +1,4 @@
+![image](https://github.com/LerinaMM/central_de_atendimento_a_mulher/assets/83770121/bf717526-03e2-4356-8872-b4b013505fbc)
 
 
 # ✅ CENTRAL DE ATENDIMENTO A MULHER
@@ -12,7 +13,7 @@ O comércio internacional fechou 2021 em alta em Santa Catarina. Com US$ 10,29 b
 
 # 🌐 Fonte
 
-A fonte dos dados foi customizada através do site http://comexstat.mdic.gov.br/pt/home, onde você pode selecionar os dados e formar uma nova base de acordo com o que você buscando.
+A fonte dos dados foi customizada através do site relacionado ao Ministério dos Direitos humanos e da Cidadania (https://www.gov.br/mdh/pt-br/acesso-a-informacao/dados-abertos/ligue180), onde você pode selecionar os dados de acordo com o semestre de registro de ligações. Os dados são referentes ao período de segundo semestre de 2022 e primeiro semestre de 2023.
 
 # 💾 Dados
 
@@ -28,4 +29,4 @@ A fonte dos dados foi customizada através do site http://comexstat.mdic.gov.br/
 
 # 📷 Dashboard
 
-![image](https://github.com/LerinaMM/importacoes_santa_catarina/assets/83770121/ad52f8a6-4258-45a7-88aa-d291ef892e27)
+
